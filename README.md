@@ -1,3 +1,1 @@
-# METEO BRASLET V1
-
-My first device on PCB
+# Meteo_station V1
